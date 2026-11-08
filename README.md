@@ -69,22 +69,12 @@ const developer = {
 
 ---
 
-## 📊 GITHUB STATISTICS
-
-<img src="https://github-readme-stats.vercel.app/api?username=Star123dev&show_icons=true&theme=radical&bg_color=190000&title_color=FF4D4D&icon_color=FF3333&text_color=FFFFFF&border_color=990000&hide_border=false" width="95%"/>
-
-<img src="https://streak-stats.demolab.com?user=Star123dev&theme=dark&background=190000&ring=FF3333&fire=FF4D4D&currStreakLabel=FF4D4D&border=990000" width="95%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Star123dev&layout=compact&theme=radical&bg_color=190000&title_color=FF4D4D&text_color=FFFFFF&border_color=990000" width="75%"/>
-
----
 
 ## 🌸 CONNECT WITH ME
 
 <a href="https://github.com/Star123dev">
 <img src="https://img.shields.io/badge/GitHub-FF3333?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 ---
 
 ### ❤️ THANK YOU FOR VISITING!
