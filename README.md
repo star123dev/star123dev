@@ -17,24 +17,7 @@
 
 ---
 
-<div align="center">
 
-## 🔴 ABOUT ME
-
-</div>
-
-```js
-const developer = {
-  username: "Star123dev",
-  role: "Software Developer",
-  loves: ["HTML", "CSS", "JavaScript"],
-  passion: "Creative Coding ❤️",
-  learning: ["C++", "Unreal Engine"],
-  motto: "Dream it. Code it. Build it."
-};
-```
-
----
 
 <div align="center">
 
@@ -67,14 +50,15 @@ const developer = {
 
 *Eat. Sleep. Code. Repeat.* ❤️
 
----
 
 
+----
 ## 🌸 CONNECT WITH ME
 
 <a href="https://github.com/Star123dev">
 <img src="https://img.shields.io/badge/GitHub-FF3333?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 ---
 
 ### ❤️ THANK YOU FOR VISITING!
